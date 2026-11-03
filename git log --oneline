@@ -1,0 +1,11 @@
+[33mcommit 7773a069cdfb7e69d31895aaa3347783f688b05f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Salman Khan <nextsalmankhan@gmail.com>
+Date:   Tue Nov 3 10:43:46 2026 +0430
+
+    Change greeting message
+
+[33mcommit 421e15b157fbd5a87f4cb765fce4bd9a5e0117f8[m
+Author: Salman Khan <nextsalmankhan@gmail.com>
+Date:   Mon Nov 2 11:54:17 2026 +0430
+
+    Add HelloWorld contract and README
